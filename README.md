@@ -48,7 +48,7 @@ To run tests refer to the [running tests](docs/tests.md) guide.
 
 ### Writing Tests
 
-To write tests refer to the [writing tests](docs/tests-development.md) guide.
+To write tests refer to the [writing tests](docs/test-development.md) guide.
 
 
 ## Contributing
